@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin217kw9iqaagm9zkc4km" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="a099f98810a728bb34afaef958fd4ec9">
+        <source>Kitchen Receipt Auto Print</source>
+        <target>Kitchen Receipt Auto Print</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="b87c8e4509d122b5f9171d4927bdf9ee">
+        <source>Generates a PDF and automatically prints kitchen receipts for restaurants and cafes upon a new order</source>
+        <target>Génère un PDF et imprime automatiquement les reçus de cuisine pour les restaurants et les cafés lors d'une nouvelle commande</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="7a9763e47e63d50a63c140736660caff">
+        <source>Invalid value or empty</source>
+        <target>Valeur invalide ou vide</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="ed516565db76120f763299cd3bd9ea1b">
+        <source>PDF generated</source>
+        <target>PDF généré</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c457b9975f96990d71444aa25c681e4e">
+        <source>Order ID not found</source>
+        <target>ID de commande introuvable</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="efbc29fc96bc3720508f5dd3343c2c31">
+        <source>By order ID</source>
+        <target>Par ID de commande</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d79cf3f429596f77db95c65074663a54">
+        <source>Order ID</source>
+        <target>ID de commande</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="0ddb0056fe3f01d91d3fa25ff65a4b24">
+        <source>Enter the Order ID you want to generate a PDF for.</source>
+        <target>Saisissez l'ID de commande pour lequel vous souhaitez générer un PDF.</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="067af5895a7ced3197520b591f9a41eb">
+        <source>Generate PDF file</source>
+        <target>Générer un fichier PDF</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="f4f70727dc34561dfde1a3c529b6205c">
+        <source>Settings</source>
+        <target>Paramètres</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="abbd64f40c34c537d3a571af068fce29">
+        <source>Orientation</source>
+        <target>Orientation</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="1c7444be9626d149ab598fb79b639f96">
+        <source>Portrait</source>
+        <target>Portrait</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="815dff01257e5ef182b25d4c1ef0a7a0">
+        <source>Landscape</source>
+        <target>Paysage</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="d9e7e3e6d8c662960bab90eaeee41257">
+        <source>Unit of measurement</source>
+        <target>Unité de mesure</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="2a3cd5946cfd317eb99c3d32e35e2d4c">
+        <source>Point</source>
+        <target>Point</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a1fc7eb146f7f3ea7934e4d247902de0">
+        <source>Millimeter</source>
+        <target>Millimètre</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="a2edad498840d7233b2f56697b02e623">
+        <source>Centimeter</source>
+        <target>Centimètre</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="bee12d309ba5730e1e121733b7b67956">
+        <source>Inch</source>
+        <target>Pouce</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="32954654ac8fe66a1d09be19001de2d4">
+        <source>Width</source>
+        <target>Largeur</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Enregistrer</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="630f6dc397fe74e52d5189e2c80f282b">
+        <source>Back to list</source>
+        <target>Retour</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>aw_kitchenreceipt</name>
+    <displayName><![CDATA[Kitchen Receipt Auto Print]]></displayName>
+    <version><![CDATA[1.1.0]]></version>
+    <description><![CDATA[Automatically prints kitchen receipts in restaurants and cafes when an order is placed]]></description>
+    <author><![CDATA[Artisan Webmaster]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall this module?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
